@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 13 09:51:08 2021
 
-@author: Atul singh
-"""
-"""
 !pip install easyocr
 !pip install googletrans
 !pip install gTTS
